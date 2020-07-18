@@ -1,2 +1,16 @@
-# Social-Flutter-App
-A microblogging app with a simple UI, allows the user to post a blog with more than 150 words, like and save other people blog and also upload an Image using url. The frontend of the app is made in flutter and the backend is supported by PHP scripts and MySQL database, We plan on taking the project to a serverless backend using API from AWS.
+# socialapp
+
+microblogging app.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
